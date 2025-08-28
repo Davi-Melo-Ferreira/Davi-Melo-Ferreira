@@ -3,8 +3,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&text_color=00FF00" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Melo-Ferreira&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Melo-Ferreira&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&text_color=00FF00" height="150"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
   <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-000000?logo=discord&logoColor=00ff00&style=for-the-badge" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:davi.ferreira9630@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?logo=gmail&logoColor=00ff00&style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
