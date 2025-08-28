@@ -4,4 +4,5 @@ Aqui vai a descrição do projeto ou do seu perfil.
 
 ## 📊 Atividade no GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Melo-Ferreira&radius=16&theme=redical&area=true&order=5&custom_title=Minha%20Atividade)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Davi-Melo-Ferreira&radius=16&theme=github&area=true&order=5&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area_color=00ff00&title_color=00ff00)
