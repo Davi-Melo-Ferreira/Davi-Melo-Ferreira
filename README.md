@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h1>
+<h1>Hi 👋! My name is Davi Ferreira and I'm a Programmer, from Brasil</h1>
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Davi-Melo-Ferreira&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Melo-Ferreira&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00FF00&text_color=00FF00" height="150"/>
 </p>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3>Tech Stack</h3>
 
-<p align="center">
+<p>
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" />
@@ -37,8 +37,8 @@
 
 ---
 
-<h3 align="center">Socials</h3>
-<p align="center">
+<h3>Socials</h3>
+<p>
   <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=00ff00&style=for-the-badge" />
   </a>
